@@ -1,2 +1,2 @@
 #!/bin/bash
-def create_local_variable(): BEST,School
+def create_local_variable(): BEST=School
